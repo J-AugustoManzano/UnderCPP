@@ -1,0 +1,7 @@
+C:/Users/Augusto Manzano/Documents/c0Yex02/build/arm_windows_msys_pe_64bit-Debug/CMakeFiles/c0Yex02.dir
+C:/Users/Augusto Manzano/Documents/c0Yex02/build/arm_windows_msys_pe_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Augusto Manzano/Documents/c0Yex02/build/arm_windows_msys_pe_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Augusto Manzano/Documents/c0Yex02/build/arm_windows_msys_pe_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Augusto Manzano/Documents/c0Yex02/build/arm_windows_msys_pe_64bit-Debug/CMakeFiles/install.dir
+C:/Users/Augusto Manzano/Documents/c0Yex02/build/arm_windows_msys_pe_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Augusto Manzano/Documents/c0Yex02/build/arm_windows_msys_pe_64bit-Debug/CMakeFiles/install/strip.dir

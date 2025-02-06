@@ -1,0 +1,3 @@
+C:/Users/Augusto Manzano/Documents/c0Yex05/build/CMakeFiles/c0Yex05.dir
+C:/Users/Augusto Manzano/Documents/c0Yex05/build/CMakeFiles/edit_cache.dir
+C:/Users/Augusto Manzano/Documents/c0Yex05/build/CMakeFiles/rebuild_cache.dir

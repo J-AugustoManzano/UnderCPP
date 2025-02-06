@@ -1,0 +1,7 @@
+X:/Documentos/c0Yex03/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/c0Yex03.dir
+X:/Documentos/c0Yex03/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/edit_cache.dir
+X:/Documentos/c0Yex03/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/rebuild_cache.dir
+X:/Documentos/c0Yex03/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/list_install_components.dir
+X:/Documentos/c0Yex03/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/install.dir
+X:/Documentos/c0Yex03/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/install/local.dir
+X:/Documentos/c0Yex03/build/Desktop_x86_windows_msys_pe_64bit-Debug/CMakeFiles/install/strip.dir
